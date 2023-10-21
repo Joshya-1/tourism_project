@@ -1,0 +1,27 @@
+#todo{
+    background-image: url(thingsbgi.jpg);
+    background-size: initial;
+}
+#to_do{
+    background-color:rgb(2, 26, 2);
+    color: skyblue;
+    margin: 100px 350px 750px;
+    text-align: justify;
+    padding: 25px;
+    font-size: larger;
+}
+#bloom{
+    width: 500px;
+}
+#tea{
+    width: 500px;
+}
+#house{
+    width: 500px;
+}
+#shikara{
+    width: 500px;
+}
+#boat{
+    width: 500px;
+}

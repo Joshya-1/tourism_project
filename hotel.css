@@ -1,0 +1,20 @@
+#hotel{
+    
+    background-image: url(hotel.jpg);
+    background-size: cover;
+    color: rgb(3, 47, 65);
+}
+#stay{
+    background-color: rgb(39, 2, 2);
+    color: rgb(204, 202, 202);
+    border: 1px solid; 
+    margin: 100px 250px 750px;
+    text-align: justify;
+    padding: 25px;
+    font-size: larger;
+    background-size: auto;
+    text-transform: capitalize;
+}
+#pts{
+    text-align: center;
+}

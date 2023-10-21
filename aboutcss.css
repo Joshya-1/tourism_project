@@ -1,0 +1,20 @@
+#about{
+    /* background-color: rgb(108, 241, 81); */
+    background-image: url(aboutusbgi.jpg);
+    background-size: auto;
+    color: rgb(3, 47, 65);
+}
+#us{
+    background-color: rgb(105, 200, 238);
+    color: rgb(1, 24, 2);
+    border: 1px solid skyblue;
+    margin: 100px 350px 750px;
+    text-align: justify;
+    padding: 100px;
+    font-size: larger;
+    
+    /* overflow: scroll; */
+}
+#wwa{
+    text-align: center;
+}
